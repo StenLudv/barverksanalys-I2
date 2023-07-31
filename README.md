@@ -1,2 +1,3 @@
 # barverksanalys-I2
-Beräkning av brokonstruktion i Matlab med hjälp av Calfem
+Beräkning av brokonstruktion med finite elemente i Matlab med hjälp av [CALFEM](https://github.com/CALFEM/calfem-matlab).
+
